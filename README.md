@@ -1,22 +1,22 @@
-# Repositori del Projecte "MongoDB: Consultes i Inserció de Dades"
+# Repository of the Project "MongoDB: Data Insertion and Queries"
 
-Aquest repositori conté tot el material necessari per al desenvolupament i documentació del projecte sobre l'ús de MongoDB per a inserció de dades i realització de consultes.
+This repository contains all the necessary materials for the development and documentation of the project on the use of MongoDB for data insertion and querying.
 
-## Autors del Repositori:
+##  Repository Authors:
 
 1. **Ramon Canal Fort (1674310)**:
 2. **Carlota Fernández Pensado (1666263)**
 3. **Emma Juanico Sala (1672960)**
 
 
-## Continguts principals del Repositori:
+## Main Contents of the Repository:
 
-1. **Scripts Python**:
-   - `main.py`: Script principal per inserir dades des d'un fitxer Excel o JSON a la base de dades MongoDB. Aquest script s'executa amb l'opció `-f` seguida del nom del fitxer de dades.
+1. **Python Scripts**:
+   - `main.py`: Main script for inserting data from an Excel or JSON file into the MongoDB database. This script is executed with the -f option followed by the name of the data file. 
 
-2. **Consultes MongoDB**:
-   - Carpeta `Consultes/` que conté els scripts per a realitzar les consultes especificades en els jocs de proves. Cada script està nomenat de manera descriptiva segons la consulta que realitza.
+2. **MongoDB Queries**:
+   - Queries' folder containing scripts to perform the queries specified in the test cases. Each script is named descriptively according to the query it executes.
 
-3. **Informe Final**:
-   - `Informe.pdf`: Document que detalla la resolució de cada exercici, incloent-hi una secció dedicada a la distribució de tasques entre els membres de l'equip.
-
+3. **Final Report**:
+   - `Informe.pdf`: Document detailing the resolution of each exercise, including a section dedicated to the distribution of tasks among team members.
+   
